@@ -39,7 +39,7 @@ colors = [
 
 random_color = random.choice(colors)
 
-webhook = SyncWebhook.from_url("https://discord.com/api/webhooks/1138707370667683900/TXHE5iLsvKxWxA5hbsfFiFer8mn3X9OxW2ilkryg0y9_3CnOWXd2vJUWSVKhblK-oraF")
+webhook = SyncWebhook.from_url("Сюда ваш вебхук")
 
 embed = Embed(
     title="Новый пользователь!",
